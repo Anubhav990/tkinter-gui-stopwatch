@@ -1,2 +1,2 @@
-*.py linguist-language=Python
-*.md linguist-documentation
+app/* linguist-documentation=false
+app/* linguist-vendored
